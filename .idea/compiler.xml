@@ -57,6 +57,12 @@
       <module name="Coffee_Machine.Topics-Errors_in_programs-Select_the_statement.main" target="11" />
       <module name="Coffee_Machine.Topics-Errors_in_programs-Statements.main" target="11" />
       <module name="Coffee_Machine.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Balance_management.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Danger_levels.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Months.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Robot_control.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-System_of_units.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Functional_decomposition-Calculator_with_four_methods.main" target="11" />
       <module name="Coffee_Machine.Topics-Functional_decomposition-Create_a_full_name.main" target="11" />
       <module name="Coffee_Machine.Topics-Functional_decomposition-Decompose_a_math_function.main" target="11" />
@@ -92,6 +98,13 @@
       <module name="Coffee_Machine.Topics-Static_members-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Static_members-Time_constants.main" target="11" />
       <module name="Coffee_Machine.Topics-Static_members-Too_many_cats.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-A_simple_calculator.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-Direction.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-Floor-space_of_the_room.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-Harry_Potter.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-Statements.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-Statements__1_.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-The_for-loop-Determine_the_result.main" target="11" />
       <module name="Coffee_Machine.Topics-The_for-loop-Grades.main" target="11" />
       <module name="Coffee_Machine.Topics-The_for-loop-Maximum_element_divisible_by_four.main" target="11" />

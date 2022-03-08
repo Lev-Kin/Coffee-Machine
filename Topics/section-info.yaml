@@ -14,3 +14,5 @@ content:
 - Static members
 - Enums in Java
 - Errors in programs
+- Fields and methods in enum
+- Switch statement
